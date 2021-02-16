@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome! This is my personal page. This is where I order my thoughts and talk about my projects. I intend to add new sections as I grow as a developer.
+Welcome! This is my personal page. It's where I order my thoughts and talk about my projects. I intend to add new sections as I grow as a developer.
 
 # Currently up to
 
