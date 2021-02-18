@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About
+#About
 
 Nat here. I studied game development at uni and am currently pursuing an engineering degree.
 
