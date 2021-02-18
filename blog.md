@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nat Valentine's Blog
+permalink: /blog/
 ---
 
 # Blog
