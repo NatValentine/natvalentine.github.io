@@ -9,4 +9,4 @@ tags: test
 
 Now I just need to think of something to say. Meanwhile have a look at my cat.
 
-![Olivia](site./assets/img/Olivia.jpg)
+![Olivia](/assets/img/Olivia.jpg)
