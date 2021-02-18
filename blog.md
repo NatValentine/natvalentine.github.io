@@ -7,13 +7,6 @@ title: Nat Valentine's Blog
 
 _yay_
 
-{% for post in site.posts %}
- <div markdown="1">
-  ##{{ post.title }}
-  {{ post.date }}
-  
-  {{ post.content }}
- </div>
-{% endfor %}
+{{ post }}
 
 [back](./)
