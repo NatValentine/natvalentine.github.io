@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+# About
+
 Nat here. I studied game development at uni and am currently pursuing an engineering degree.
 
 Honestly I made this page because I was bored at like 3am but hey! if you're reading this maybe stick around, I'm sure you'll find at least one of my projects worthwhile.
