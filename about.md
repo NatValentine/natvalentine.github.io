@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
+title: About Nat Valentine
 permalink: /about/
 ---
 
-#About
+# About
 
 Nat here. I studied game development at uni and am currently pursuing an engineering degree.
 
 Honestly I made this page because I was bored at like 3am but hey! if you're reading this maybe stick around, I'm sure you'll find at least one of my projects worthwhile.
 
-###My interests include (but grow constantly):
+### My interests include (but grow constantly):
 
 *Programming (obviously), particularly games.
 *I'm also getting into web dev
