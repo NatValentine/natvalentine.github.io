@@ -12,16 +12,16 @@ Honestly I made this page because I was bored at like 3am but hey! if you're rea
 
 ### My interests include (but grow constantly):
 
-*Programming (obviously), particularly games.
-*I'm also getting into web dev
-*Graphic design (level: noob)
-*Art and animation (mostly 2D)
-*Music
-*Lifting weights
-*Olympic archery
-*Cats
-*Birds
-*Sometimes plants
+* Programming (obviously), particularly games.
+* I'm also getting into web dev
+* Graphic design (level: noob)
+* Art and animation (mostly 2D)
+* Music
+* Lifting weights
+* Olympic archery
+* Cats
+* Birds
+* Sometimes plants
 
 ### More Info
 
