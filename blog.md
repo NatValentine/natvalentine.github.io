@@ -3,9 +3,7 @@ layout: default
 title: Nat Valentine's Blog
 ---
 
-## Welcome to another page, there should be a blog here somewhere
-
-_yay_
+# Blog
 
 <div class="posts">
   {% for post in site.posts %}
