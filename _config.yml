@@ -4,4 +4,4 @@ description: Hi! Feel free to bookmark this to keep an eye on my project updates
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-#permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
