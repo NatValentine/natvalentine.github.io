@@ -4,7 +4,8 @@ description: This is my personal page. It's where I order my thoughts and talk a
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-permalink: /:title/
+permalink: /blog/:year/:month/:day/:title/
+#permalink: /:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
