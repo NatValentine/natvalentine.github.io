@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About Nat Valentine
+title: About
 permalink: /about/
 ---
-
-# About
 
 Nat here. I studied game development at uni and am currently pursuing an engineering degree.
 
